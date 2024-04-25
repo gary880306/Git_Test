@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3eee140-6902-4ce9-94e0-d8f21a98b04f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/git_test/controller/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/git_test/controller/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/git_test/controller/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
